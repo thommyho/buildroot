@@ -6,8 +6,8 @@ From https://pine64.org/documentation/Ox64/Software/Building/
 ```bash
 mkdir -p ~/ox64
 cd ~/ox64
-git clone https://github.com/buildroot/buildroot
-git clone https://github.com/openbouffalo/buildroot_bouffalo
+git clone https://github.com/thommyho/buildroot
+git clone https://github.com/thommyho/buildroot_bouffalo
 ```
 Define an environment variable for the Buildroot Bouffalo overlay path:
 
